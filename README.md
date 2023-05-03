@@ -12,6 +12,4 @@ The data has the follow feature which include; age, education,	employ,	address,	
 
 * Modelling
 
-The Model used are LogisticRegression, KNeighborsClassifier and RandomForestClassifier
-
-
+The Model used are LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GaussianNB, XGBClassifier, DecisionTreeClassifier, AdaBoostClassifier and LinearSVC
